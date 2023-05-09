@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rene Lima
 - 👀 I’m interested in full stack development with a emphasis on the backend
-- 🌱 I’m currently learning React, Dajngo
+- 🌱 I’m currently learning React, Django
 - 💞️ I’m looking to collaborate on 
 - 📫 Best way to reach me is through my email. rlima003@ucr.edu
 
