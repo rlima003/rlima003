@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Rene Lima
-- 👀 I’m interested in full stack development with a emphasis on the backend
-- 🌱 I’m currently learning React, Django
-- 💞️ I’m looking to collaborate on 
+- 👋 Hi, I’m Rene Lima Mexicano
+- 👀 Ineterested in Full Stack development
+- 🌱 Technologies, Nextjs, Firebase, Tailwind, Python
 - 📫 Best way to reach me is through my email. rlima003@ucr.edu
 
 <!---
