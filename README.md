@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rene Lima Mexicano
 - 👀 Ineterested in Full Stack development
-- 🌱 Technologies, Nextjs, Firebase, Tailwind, Python
+- 🌱 Technologies: Nextjs, Firebase, Tailwind, Python, CSS
 - 📫 Best way to reach me is through my email. rlima003@ucr.edu
 
 <!---
